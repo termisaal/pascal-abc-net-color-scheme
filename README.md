@@ -1,8 +1,8 @@
 # PascalABC.NET Color Scheme
 Color scheme for PascalABC.NET based on JetBrains' IntelliJ Light
 ## Preview:
-(font used: JetBrains Mono)
 ![Comparison](comparison.png)
+*(font used: JetBrains Mono)*
 ## Installation:
 * Go to the PascalABC.NET installation folder (`C:\Program Files (x86)\PascalABC.NET\` by default)
 * Go to the `\Highlighting\`
