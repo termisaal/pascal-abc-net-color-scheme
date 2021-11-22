@@ -1,4 +1,4 @@
-# PascalABC.NET Color Scheme
+# Цветовая схема для PascalABC.NET
 Color scheme for PascalABC.NET based on JetBrains' IntelliJ Light
 ## Preview:
 ![Comparison](comparison.png)
